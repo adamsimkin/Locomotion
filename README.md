@@ -1,4 +1,4 @@
-# Locomotion • ![python](https://img.shields.io/badge/Version-0.1.0-orange.svg)
+# Locomotion • ![python](https://img.shields.io/badge/version-v0.1.0-orange.svg) ![python](https://img.shields.io/badge/license-MIT-green.svg)
 
 tag-line
 
