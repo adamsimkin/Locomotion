@@ -1,6 +1,6 @@
-# Locomotion
+# Locomotion • ![python](https://img.shields.io/badge/Version-0.1.0-orange.svg)
 
-Foobar is a Python library for dealing with word pluralization.
+tag-line
 
 ## Description
 Locomotion is a beta open-source code designed to ______. 
