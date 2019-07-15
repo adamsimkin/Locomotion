@@ -1,4 +1,4 @@
-# Locomotion • ![python](https://img.shields.io/badge/license-MIT-green.svg)
+# Locomotion ![python](https://img.shields.io/badge/license-MIT-green.svg)
 
 tag-line
 
@@ -6,7 +6,7 @@ tag-line
 Locomotion is a beta open-source code designed to ______. 
 
 ## Usage
-![Picture](https://www.pastepic.xyz/images/2019/07/15/Screen-Shot-2019-07-15-at-9.36.34ca9f852a041a4a3c.png)![Picture](https://www.pastepic.xyz/images/2019/07/15/Screen-Shot-2019-07-15-at-9.19.375affdc91ae048211.png)
+![Driver on the way](https://www.pastepic.xyz/images/2019/07/15/Screen-Shot-2019-07-15-at-9.19.37deedc81e2772edca.png)![In ride](https://www.pastepic.xyz/images/2019/07/15/Screen-Shot-2019-07-15-at-9.36.34cd3ed79ea65c453b.png)
 
 ## Roadmap
 * **In-Ride**: vehicle tracking, ride status, ride updates, ride cancellation 
