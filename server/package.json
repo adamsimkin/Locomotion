@@ -1,0 +1,40 @@
+{
+    "name": "ns-name",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "coverage": "jest --coverage --forceExit --runInBand && rm -rf ./coverage",
+        "test": "jest --forceExit",
+        "test-auto": "jest --watch",
+        "linter": "./node_modules/.bin/eslint .",
+        "dev": "nodemon index.js",
+        "start": "node index.js",
+        "migrate": "node_modules/.bin/sequelize db:migrate",
+        "init": "bash ./scripts/init.sh"
+    },
+    "engines": {
+        "node": "v11.14.0"
+    },
+    "author": "AutoFleet",
+    "license": "ISC",
+    "dependencies": {
+        "@autofleet/node-common": "^1.2.1",
+        "@autofleet/super-express": "^1.1.12",
+        "axios": "^0.19.0",
+        "dotenv": "^5.0.0",
+        "express": "^4.16.2",
+        "git-last-commit": "^0.3.0",
+        "pg": "^7.4.1",
+        "sequelize": "^4.32.2",
+        "sequelize-cli": "^3.2.0",
+        "winston": "^3.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^4.17.0",
+        "eslint-config-airbnb": "^16.1.0",
+        "eslint-plugin-import": "^2.8.0",
+        "jest": "^22.4.3",
+        "supertest": "^3.0.0"
+    }
+}
